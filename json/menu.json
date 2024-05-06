@@ -1,0 +1,135 @@
+[
+  {
+    "precio": 500,
+    "id": 1,
+    "title": "Café",
+    "imgSrc": "../img/cafe.jpg"
+  },
+  {
+    "precio": 8000,
+    "id": 2,
+    "title": "Pizza Muzza",
+    "imgSrc": "../img/muzza.wepp"
+  },
+  {
+    "precio": 9000,
+    "id": 3,
+    "title": "Pizza Napolitana",
+    "imgSrc": "/img/napo.wepp"
+  },
+  {
+    "precio": 10000,
+    "id": 4,
+    "title": "Pizza Jamon y Morron",
+    "imgSrc": "/img/morron.wepp"
+  },
+  {
+    "precio": 6000,
+    "id": 5,
+    "title": "Milanesa con fritas",
+    "imgSrc": "/img/mila.wepp"
+  },
+  {
+    "precio": 7000,
+    "id": 6,
+    "title": "Milanesa Napolitana con fritas",
+    "imgSrc": "/img/mila_napo.wepp"
+  },
+  {
+    "precio": 5000,
+    "id": 7,
+    "title": "Porcion de Papa Fritas",
+    "imgSrc": "/img/papafrita.wepp"
+  },
+  {
+    "precio": 6000,
+    "id": 8,
+    "title": "Fritas con Cheddar & Bacon",
+    "imgSrc": "/img/papafpapabacon.wepp"
+  },
+  {
+    "precio": 15000,
+    "id": 9,
+    "title": "Asado - Parrilla",
+    "imgSrc": "/img/parilla.wepp"
+  },
+  {
+    "precio": 5000,
+    "id": 10,
+    "title": "Pastel de Papa",
+    "imgSrc": "/img/paripastel.wepp"
+  },
+  {
+    "precio": 4500,
+    "id": 11,
+    "title": "Guiso de Lentejas",
+    "imgSrc": "/img/guiso.wepp"
+  },
+  {
+    "precio": 5000,
+    "id": 12,
+    "title": "Guiso de Lentejas",
+    "imgSrc": "/img/guiso.wepp"
+  },
+  {
+    "precio": 5000,
+    "id": 13,
+    "title": "Choripan",
+    "imgSrc": "/img/choripan.jpg"
+  },
+  {
+    "precio": 5000,
+    "id": 14,
+    "title": "Ración de Chori",
+    "imgSrc": "/img/chorizo.jpg"
+  },
+  {
+    "precio": 5000,
+    "id": 15,
+    "title": "Empanada",
+    "imgSrc": "/img/empanada.wepp"
+  },
+  {
+    "precio": 1000,
+    "id": 16,
+    "title": "Coca-Cola",
+    "imgSrc": "/img/201.wepp"
+  },
+  {
+    "precio": 1000,
+    "id": 17,
+    "title": "Fanta",
+    "imgSrc": "/img/202.wepp"
+  },
+  {
+    "precio": 1000,
+    "id": 18,
+    "title": "Sprite",
+    "imgSrc": "/img/203.wepp"
+  },
+  {
+    "precio": 1000,
+    "id": 19,
+    "title": "Agua Mineral",
+    "imgSrc": "/img/205.wepp"
+  },
+  {
+    "precio": 2500,
+    "id": 20,
+    "title": "Cerveza Golden",
+    "imgSrc": "/img/206.wepp"
+  },
+  {
+    "precio": 2500,
+    "id": 21,
+    "title": "Cerveza IPA",
+    "imgSrc": "/img/209.wepp"
+  },
+  {
+    "precio": 5000,
+    "id": 22,
+    "title": "Cerveza Zero",
+    "imgSrc": "/img/210.wepp"
+  }
+
+]

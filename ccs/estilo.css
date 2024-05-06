@@ -1,0 +1,20 @@
+/*Reseteo y generales*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+body{
+    /* Fondo degradado de bandera de Argentina. Esta configurado para todos los Body de todas las paginas que esten llamando este archivo de estilos.ccs */
+    background-image: linear-gradient(to bottom, rgb(222, 231, 236), rgba(143, 189, 231, 0)), url("../img/bandera.jpg");
+    background-repeat: round;
+    background-attachment: fixed;
+    padding: 50px;
+    height: 100vh;
+    
+}
+
+
+
